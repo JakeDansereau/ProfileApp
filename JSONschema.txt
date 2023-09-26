@@ -1,0 +1,5 @@
+{ "$schema": "http://json-schema.org/draft-07/schema#", "type": "object", "properties": { "7p5NY3Uf1MaDLtUjVMkJOWHPZui1": { "type": "object", "properties": { "age": { "type": "string" }, "location": { "type": "string" }, "major": { "type": "string" }, "name": { "type": "string" } }, "required": ["age", "location", "major", "name"] }, "highScore": { "type": "integer" }, "zKKPaOCT0kQjoGVb80xOxNCQFSy2": { "type": "object",
+ "properties": { "age": { "type": "string" }, 
+"location": { "type": "string" }, "major": { "type": "string" }, 
+"name": { "type": "string" } }, "required": ["age", "location", "major", "name"] } },
+ "required": ["7p5NY3Uf1MaDLtUjVMkJOWHPZui1", "highScore", "zKKPaOCT0kQjoGVb80xOxNCQFSy2"] }
